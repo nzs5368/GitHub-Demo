@@ -1,4 +1,3 @@
-This is an example of a change.
 
 ## Welcome to GitHub Pages
 
@@ -12,6 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+
+Little text example
 
 # Header 1
 ## Header 2
