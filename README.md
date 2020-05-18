@@ -1,3 +1,5 @@
+This is an example of a change.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nzs5368/GitHub-Demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
